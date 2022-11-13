@@ -1,0 +1,136 @@
+/* All Courses.js------------------------------------------------------------------------------ */
+.tableheadcolor{
+    background-color: rgba(81, 113, 114, 0.89);
+    color: aliceblue;
+}
+.Heading{
+
+    font-size: 50px;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.back2{
+    height: 156px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIE2VudmSfPsOF3Y7B3AB4G6wA1p_K3uVBjQ&usqp=CAU");
+    background-size: 426px 202px; }
+    
+    .heading2{
+        font-style: italic;
+        display: inline-block;
+        color: rgb(0, 0, 0);
+            margin-top: 30px;
+            font-size: 65px;
+        font-weight: bold;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        border-style: dashed;
+        border-radius: 44px;
+        width:1100px;
+        border-color: rgb(0, 0, 0);
+        border-width: 6px;
+        margin-left: auto;
+          margin-right: auto;
+        
+    }
+/* ------------------------------------------------------------------------------------------------------------- */
+/* Add Course------------------------------------------------------------------------------------------- */
+.heading{
+    font-style: italic;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+        margin-top: 30px;
+        font-size: 65px;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style: dashed;
+    border-radius: 44px;
+    width:800px;
+    border-color: rgb(255, 255, 255);
+    border-width: 6px;
+    margin-left: auto;
+      margin-right: auto;
+    
+}
+.formBlock{
+      
+      display: inline-block;
+      border-block: 10px;
+      width:500px;
+      margin-top: 13px;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 2px;
+}
+.color{
+    border-style: double;
+    border-color: rgb(212, 162, 67);
+    width:550px;
+    border-radius: 10px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykyfesdDXbkSYjHf3XlWzC4RWrdCpVM51dg&usqp=CAU");
+    background-size: 550px 470px;
+    background-repeat: no-repeat;
+    position:absolute;
+}
+
+.back{
+    height: 156px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjh8YLdLCN2R5FK07hAVXJWY1yDcQvsVmi1g&usqp=CAU");
+    background-size: 426px 202px;    
+}
+.box{
+    font-size: 19px;
+}
+.boxsize{
+    width: 526px;
+    height: 37px;
+    padding-left: 24px;
+}
+.field1 input{
+    
+    border: 1px solid gainsboro;
+  }
+/* ------------------------------------------------------------------------------------------------------ */
+.heading1{
+    font-style: italic;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+        margin-top: 30px;
+        font-size: 65px;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style: dashed;
+    border-radius: 44px;
+    width:800px;
+    border-color: rgb(255, 255, 255);
+    border-width: 6px;
+    margin-left: auto;
+      margin-right: auto;
+    
+}
+.formBlock1{
+      
+      display: inline-block;
+      border-block: 10px;
+      width:500px;
+      margin-top: 13px;
+      margin-left: auto;
+      margin-right: auto;
+}
+.back1{
+    height: 156px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4oAQWgR5AVSIQoPRhuyDqiwjgMJMBT5aeg&usqp=CAU");
+    background-size: 426px 202px;    
+}
+.color2{
+    border-style: double;
+    border-color: rgb(128, 69, 206);
+    width:550px;
+    border-radius: 10px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0vCWxVJ4nwgaKwYt4xLpABI7JuvNbvkDFg&usqp=CAU");
+    background-size: 550px 470px;
+    background-repeat: no-repeat;
+    position:absolute;
+}
+.box2{
+    font-size: 19px;
+    font-weight: 100;
+}
